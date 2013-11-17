@@ -101,7 +101,7 @@ facebook_like: false
 # Sina Weibo
 weibo_uid: 2394612557
 weibo_verifier: 03cd9a29
-weibo_fansline: 0
+weibo_fansline: 1
 weibo_show: true
 weibo_pic: true
 weibo_skin: 10
