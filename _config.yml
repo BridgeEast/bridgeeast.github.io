@@ -4,7 +4,7 @@
 
 url: http://bridgeeast.github.io
 title: 
-subtitle: Blogging time
+subtitle: Blogging Time
 author: BridgeEast
 simple_search: http://google.com/search
 description: 
@@ -70,7 +70,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: true
@@ -105,3 +105,9 @@ weibo_fansline: 1
 weibo_show: true
 weibo_pic: true
 weibo_skin: 10
+
+# duoshuo comments  
+duoshuo: true  
+
+#share                                                             
+share: true

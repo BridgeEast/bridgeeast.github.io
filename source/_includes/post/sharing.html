@@ -1,5 +1,5 @@
 <div class="sharing">
-  {% if site.twitter_tweet_button %}
+  {% if site.twitter_tweet_button and false %}
   <a href="//twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
   {% endif %}
   {% if site.google_plus_one %}
@@ -8,4 +8,8 @@
   {% if site.facebook_like %}
     <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
   {% endif %}
+  {% if site.share %}  
+   <h2>Share</h2>  
+       {% include post/jiathis.html %}  
+   {% endif %}  
 </div>

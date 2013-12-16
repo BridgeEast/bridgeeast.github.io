@@ -26,6 +26,8 @@ bundle update
 rake install
 {% endcodeblock %}
 
+<!-- more -->
+
 * 建立一个新的github项目
 点击【Create a New Repository】，然后以 用户名/用户名.github.io 的格式建立一个新项目。
 
@@ -34,8 +36,6 @@ rake install
 rake setup_github_pages
 {% endcodeblock %}
 这条命令会询问你刚才建立的项目的地址，按要求输入;
-
-<!-- more -->
 
 * 接着执行
 {% codeblock lang:objc %}
