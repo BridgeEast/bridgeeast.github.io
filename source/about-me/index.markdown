@@ -12,12 +12,17 @@ footer: true
 惠州学院11级计算机软件工程
 
 ###编程语言
-
+* Extjs && Javascript && Jquery
 * Ruby On Rails
-* Extjs && Javascript
 * HTML && CSS
 
 ###其它接触过的语言
 * Java
-* C、C++ 
 * ASP.NET
+* C、C++ 、Object C
+
+
+###开发平台
+* Windows
+* Ubuntu
+* mac os
