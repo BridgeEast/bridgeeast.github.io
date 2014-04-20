@@ -11,17 +11,20 @@ octopress搭建个人博客的方法在网上有很多，在<a href="http://octo
 * 安装好ruby和git（已经有ruby开发环境的就不用了）
 
 * 克隆octopress项目，并进行配置
+
 {% codeblock lang:objc %}
 git clone git://github.com/imathis/octopress.git blog 
 {% endcodeblock %}
 
 * 设置默认ruby版本（如果不使用rvm则不需要）,更新相应的gem
+
 {% codeblock lang:objc %}
 rvm use 1.9.3-p374  
 bundle update
 {% endcodeblock %}
 
 * 安装默认主题
+
 {% codeblock lang:objc %}
 rake install
 {% endcodeblock %}
@@ -29,15 +32,18 @@ rake install
 <!-- more -->
 
 * 建立一个新的github项目
+
 点击【Create a New Repository】，然后以 用户名/用户名.github.io 的格式建立一个新项目。
 
 * 部署到github上 
+
 {% codeblock lang:objc %}
 rake setup_github_pages
 {% endcodeblock %}
 这条命令会询问你刚才建立的项目的地址，按要求输入;
 
 * 接着执行
+
 {% codeblock lang:objc %}
 rake generate
 rake deploy
