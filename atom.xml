@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Blogging Time]]></title>
-  <link href="http://bridgeeast.github.io/atom.xml" rel="self"/>
-  <link href="http://bridgeeast.github.io/"/>
-  <updated>2014-10-23T01:24:10+08:00</updated>
-  <id>http://bridgeeast.github.io/</id>
+  <link href="http://BridgeEast.github.io/atom.xml" rel="self"/>
+  <link href="http://BridgeEast.github.io/"/>
+  <updated>2014-10-23T01:28:01+08:00</updated>
+  <id>http://BridgeEast.github.io/</id>
   <author>
     <name><![CDATA[BridgeEast]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[每天读一遍，思考一下：我是否浮躁]]></title>
-    <link href="http://bridgeeast.github.io/blog/2014/10/22/read-every-day/"/>
+    <link href="http://BridgeEast.github.io/blog/2014/10/22/read-every-day/"/>
     <updated>2014-10-22T22:14:00+08:00</updated>
-    <id>http://bridgeeast.github.io/blog/2014/10/22/read-every-day</id>
+    <id>http://BridgeEast.github.io/blog/2014/10/22/read-every-day</id>
     <content type="html"><![CDATA[<p>1、不要看到别人的回复，第一句话就说：给个代码吧！你应该想想为什么。当你自己想出来再参考别人的提示，就会知道自己和别人思路的差异。</p>
 
 <p>2、初学者请不要看太多的书，那会误人子弟的，先找一本好书系统的学习。很多人用了很久都是只对部分功能熟悉而已，不系统还是不够的。</p>
@@ -65,19 +65,23 @@
 
 <p>22、虽然不是打击初学者，但是这句话还是要说：论坛论坛，就是大家讨论的地方，如果你总期望有高手无偿指点你，除非他是你亲戚！！！讨论者，起码是水平相当的才有讨论的说法，如果水平真差距太远了，连基本操作都需要别人给解答，谁还跟你讨论呢。</p>
 
-<p>浮躁的人容易问：我到底该学什么？－－别问，学就对了！
-浮躁的人容易问：有钱途吗？－－建议你去抢银行算了！
-浮躁的人容易说：我要中文版！我英文不行！－－不行？学呀！
-浮躁的人分两种：只观望而不学的人；只学而不坚持的人。
-浮躁的人永远不是（也成不了）一个高手。</p>
+<p>浮躁的人容易问：我到底该学什么？－－别问，学就对了！</p>
+
+<p>浮躁的人容易问：有钱途吗？－－建议你去抢银行算了！</p>
+
+<p>浮躁的人容易说：我要中文版！我英文不行！－－不行？学呀！</p>
+
+<p>浮躁的人分两种：只观望而不学的人；只学而不坚持的人。</p>
+
+<p>浮躁的人永远不是（也成不了）一个高手。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Setup ruby on rails on ubuntu14.04]]></title>
-    <link href="http://bridgeeast.github.io/blog/2014/04/19/setup-ruby-on-rails-on-ubuntu14-dot-04/"/>
+    <link href="http://BridgeEast.github.io/blog/2014/04/19/setup-ruby-on-rails-on-ubuntu14-dot-04/"/>
     <updated>2014-04-19T16:11:00+08:00</updated>
-    <id>http://bridgeeast.github.io/blog/2014/04/19/setup-ruby-on-rails-on-ubuntu14-dot-04</id>
+    <id>http://BridgeEast.github.io/blog/2014/04/19/setup-ruby-on-rails-on-ubuntu14-dot-04</id>
     <content type="html"><![CDATA[<p>昨天刚发布的ubuntu14.04，今天就想体验下新系统的新鲜感，于是折腾了一下，配上ruby on rails的开发环境。失败了很多次，因为是新系统，默认的更新源里没有全面的依赖。</p>
 
 <h2>所以安装前先更新源。</h2>
@@ -159,9 +163,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress添加新浪微博秀]]></title>
-    <link href="http://bridgeeast.github.io/blog/2013/12/16/octopresstian-jia-xin-lang-wei-bo-xiu/"/>
+    <link href="http://BridgeEast.github.io/blog/2013/12/16/octopresstian-jia-xin-lang-wei-bo-xiu/"/>
     <updated>2013-12-16T20:00:00+08:00</updated>
-    <id>http://bridgeeast.github.io/blog/2013/12/16/octopresstian-jia-xin-lang-wei-bo-xiu</id>
+    <id>http://BridgeEast.github.io/blog/2013/12/16/octopresstian-jia-xin-lang-wei-bo-xiu</id>
     <content type="html"><![CDATA[<ul>
 <li><p>首先在自己的新浪微博首页中&mdash;-设置&mdash;-我的工具&mdash;-新浪微博秀提取嵌入式代码</p></li>
 <li><p>在source/_includes/asides/添加weibo.html</p></li>
@@ -246,9 +250,9 @@
   
   <entry>
     <title type="html"><![CDATA[octopress个人博客搭建]]></title>
-    <link href="http://bridgeeast.github.io/blog/2013/11/16/octopressge-ren-bo-ke/"/>
+    <link href="http://BridgeEast.github.io/blog/2013/11/16/octopressge-ren-bo-ke/"/>
     <updated>2013-11-16T16:57:00+08:00</updated>
-    <id>http://bridgeeast.github.io/blog/2013/11/16/octopressge-ren-bo-ke</id>
+    <id>http://BridgeEast.github.io/blog/2013/11/16/octopressge-ren-bo-ke</id>
     <content type="html"><![CDATA[<p>octopress搭建个人博客的方法在网上有很多，在<a href="http://octopress.org/">octopress</a>网站上也有详细介绍,
 只要参照教程，很容易就能理解搭建的流程，个人的实现方法如下：</p>
 
